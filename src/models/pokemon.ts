@@ -1,6 +1,6 @@
 //  # Interfaces/Types e Classes de Entidade. Molde rigoroso dos atributos consumidos da API.
 
-export interface Pokemon {
+export interface PokemonResumo {
   id: number;
   name: string;
   tipos: string[];
